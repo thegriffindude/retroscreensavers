@@ -1,5 +1,5 @@
 # retroscreensavers
-A simple script that uses mpv and xscreensavers to play video screensavers, in this case, retro ones!
+My collection of retro screensavers can be found [here](https://drive.google.com/open?id=1JghlJYllOwpC7O6MA-K1OJQ3gIyenS2_)
 # Dependencies
 * coreutils
 * mpv
@@ -33,3 +33,8 @@ If configured correctly, you should see your videos after clicking Preview!
 xscreensavers should be installable across most distros, check your repos for more info. 
 After it's installed, it should be a whole lot different than the above instructions, make sure videos and script is in the
 right place.
+
+Contributors
+------------------------
+thegriffindude
+[graysky2](https://github.com/graysky2) The script is basically just his for Apple Aerial Wallpapers, just tweaked.
