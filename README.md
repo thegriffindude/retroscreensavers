@@ -36,5 +36,5 @@ right place.
 
 Contributors
 ------------------------
-thegriffindude
-[graysky2](https://github.com/graysky2) The script is basically just his for Apple Aerial Wallpapers, just tweaked.
+* thegriffindude
+* [graysky2](https://github.com/graysky2) The script is basically just his for Apple Aerial Wallpapers, just tweaked.
